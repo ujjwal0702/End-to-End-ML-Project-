@@ -1,13 +1,13 @@
 # End-to-End-ML-Project-
 
-'''bash
+```bash
 conda create -n mlproj python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 conda activate mlproj
-'''
+```
 
-'''bash
+```bash
 pip install requirements.txt
-'''
+```
